@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Recipe Blog",
+      "image": "https://github.com/ns8279/Receipe_Blog/blob/master/public/images/preview.png",
+      "github":"https://github.com/ns8279/Receipe_Blog",
+      "desciption":"The Recipe Blog is a blog website where users can publish their recipes and comment on other users’ recipes as well. This application follows the MVC paradigm and it is using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
+      "Application": "https://infinite-shelf-13445.herokuapp.com/"
+    },
+    {
+      "id": 2,
+      "name": "Movie Buzz",
+      "image": "https://raw.githubusercontent.com/ns8279/Movie-buzz/master/assets/images/preview_2.png",
+      "github":"https://github.com/ns8279/Movie-buzz",
+      "desciption":"An application which gives you a list of movies and specific movie details when searched for a word and redirects you to various streaming apps such as Itunes, Netflix, etc.",
+      "Application": "https://ns8279.github.io/Movie-buzz/"
+    },
+    {
+      "id": 3,
+      "name": "Weather Dashboard",
+      "image": "https://raw.githubusercontent.com/ns8279/Weather_dashboard/master/assets/images/preview.png",
+      "github":"https://github.com/ns8279/Weather_dashboard",
+      "desciption":"This app gives weather information of the location you want and a 5 day forecast. Enter a city into the search box and click search. The city will be automatically be saved in your search history. Current weather info will be pulled from the open weather API. Click on any city in the search history to review weather information.",
+      "Application": "https://ns8279.github.io/Weather_dashboard/"
+    },
+
+    {
+        "id": 4,
+        "name": "Run Buddy",
+        "image": "https://github.com/ns8279/run_buddy/blob/master/assets/images/hero_bg.jpg",
+        "github":"https://github.com/ns8279/run_buddy",
+        "desciption":"A website that offers fitness training services",
+        "Application": "https://ns8279.github.io/run_buddy/"
+    },
+
+    {
+        "id": 5,
+        "name": "To be Added soon",
+        "image": "https://static.vecteezy.com/system/resources/previews/000/189/020/original/vector-stay-tuned-coming-soon-label-text-on-colorful-background.jpg",
+        "github":"NA",
+        "desciption":"WIP",
+        "Application": "NA"
+    },
+
+    {
+        "id": 6,
+        "name": "Coming Soon",
+        "image": "https://static.vecteezy.com/system/resources/previews/000/189/020/original/vector-stay-tuned-coming-soon-label-text-on-colorful-background.jpg",
+        "github":"NA",
+        "desciption":"WIP",
+        "Application": "NA"
+    }
+
+    
+
+
+    
+]
