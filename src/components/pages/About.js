@@ -13,11 +13,15 @@ function About() {
                 <Card.Header as="h3">About Me</Card.Header>
                 <Card.Body>
                     <Card.Text>
-                        In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used before final copy is available, but it may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design.
+                    A financial Data Analyst interested in the field of Webdevelopment.
+                    Currently persuing Full stack web development at UC-Berkeley extension.
+                    
 
-                        Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a first-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical, improper Latin.
+A 24 week rigorous and fast paced program which gives you the knowledge and skills to build dynamic end-to-end web applications and become a full stack web developer.
 
-                        Versions of the Lorem ipsum text have been used in typesetting at least since the 1960s, when it was popularized by advertisements for Letraset transfer sheets. Lorem ipsum was introduced to the digital world in the mid-1980s when Aldus employed it in graphic and word-processing templates for its desktop publishing program PageMaker. Other popular word processors including Pages and Microsoft Word have since adopted Lorem ipsum as well.
+Applicable Courses: HTML5, CSS, JavaScript, jQuery, MERN Stack, SEO online marketing, Node.js, Express.js, Bootstrap, Materialize, Server-Side APIs, Web APIs, Object-Oriented Programming, web app deployment etc.
+Testing Framework: JEST and Insomnia
+
                     </Card.Text>
                 </Card.Body>
             </Card>
