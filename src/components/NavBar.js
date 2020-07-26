@@ -5,7 +5,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function NavBar(props) {
   const tabs = ['About', 'Portfolio', 'Contact', 'Resume'];
   return (
-    <ul className="nav nav-tabs">
+    <div className="px-3 py-4">
+    <h3>Nirupama Sundararaman</h3>
+    <ul className="nav nav-tabs float-right">
+     
       {tabs.map(tab => (
         <li className="nav-item" key={tab}>
           <a
@@ -20,6 +23,7 @@ function NavBar(props) {
         </li>
       ))}
     </ul>
+    </div>
   );
 }
 

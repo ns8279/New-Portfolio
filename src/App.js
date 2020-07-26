@@ -12,7 +12,7 @@ function App() {
       <Header></Header>
     </div>
     <div>
-      <Footer></Footer>
+      <Footer className="px-5"></Footer>
     </div>
     </>
   );

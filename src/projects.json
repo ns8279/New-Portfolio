@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Recipe Blog",
-      "image": "https://github.com/ns8279/Receipe_Blog/blob/master/public/images/preview.png",
+      "image": "https://iamafoodblog.com/wp-content/uploads/2014/08/fulled-loaded-baked-potato-salad-4w11.jpg",
       "github":"https://github.com/ns8279/Receipe_Blog",
       "desciption":"The Recipe Blog is a blog website where users can publish their recipes and comment on other users’ recipes as well. This application follows the MVC paradigm and it is using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.",
       "Application": "https://infinite-shelf-13445.herokuapp.com/"
@@ -27,7 +27,7 @@
     {
         "id": 4,
         "name": "Run Buddy",
-        "image": "https://github.com/ns8279/run_buddy/blob/master/assets/images/hero_bg.jpg",
+        "image": "https://www.dryarn.com/assets/uploads/running.jpg",
         "github":"https://github.com/ns8279/run_buddy",
         "desciption":"A website that offers fitness training services",
         "Application": "https://ns8279.github.io/run_buddy/"

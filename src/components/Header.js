@@ -28,8 +28,9 @@ function Portfolio() {
   
 
   return (
-    <div>
+    <div >
       <NavBars currentPage={currentPage} handlePageChange={handlePageChange} />
+      <hr />
       <div>
         {
           renderPage()
