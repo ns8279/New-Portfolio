@@ -1,6 +1,13 @@
-[
+[  {
+  "id": 1,
+  "name": "Connect Me",
+  "image": "https://raw.githubusercontent.com/izabelacloud/Connect-Me/master/client/src/assets/img/connect-me1.png",
+  "github":"https://github.com/ns8279/Connect-Me",
+  "desciption":"ConnectMe is an application that connects tutors and students interested in improving their skill set. This platform provides a framework for the Students to sign up and search the database of Tutors with their qualifications and enables the students to schedule and book lectures with the tutors. This application is built using the MERN stack - Node.js/Express, GraphQL, Apollo Server, MongoDB / Mongoose and it is using React for the front end and Redux for state management. In addition, this application is built as a Progressive Web App, leveraging Service Workers and can be installed as an mobile application. Authentication is ensured leveraging JSON Web Tokens and the checkout experience is supported by Stripe.",
+  "Application": "https://izabelacloud-connectme.herokuapp.com/"
+},
     {
-      "id": 1,
+      "id": 2,
       "name": "Recipe Blog",
       "image": "https://iamafoodblog.com/wp-content/uploads/2014/08/fulled-loaded-baked-potato-salad-4w11.jpg",
       "github":"https://github.com/ns8279/Receipe_Blog",
@@ -8,7 +15,7 @@
       "Application": "https://infinite-shelf-13445.herokuapp.com/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Movie Buzz",
       "image": "https://raw.githubusercontent.com/ns8279/Movie-buzz/master/assets/images/preview_2.png",
       "github":"https://github.com/ns8279/Movie-buzz",
@@ -16,7 +23,7 @@
       "Application": "https://ns8279.github.io/Movie-buzz/"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Weather Dashboard",
       "image": "https://raw.githubusercontent.com/ns8279/Weather_dashboard/master/assets/images/preview.png",
       "github":"https://github.com/ns8279/Weather_dashboard",
@@ -25,7 +32,7 @@
     },
 
     {
-        "id": 4,
+        "id": 5,
         "name": "Run Buddy",
         "image": "https://www.dryarn.com/assets/uploads/running.jpg",
         "github":"https://github.com/ns8279/run_buddy",
@@ -33,14 +40,7 @@
         "Application": "https://ns8279.github.io/run_buddy/"
     },
 
-    {
-        "id": 5,
-        "name": "To be Added soon",
-        "image": "https://static.vecteezy.com/system/resources/previews/000/189/020/original/vector-stay-tuned-coming-soon-label-text-on-colorful-background.jpg",
-        "github":"NA",
-        "desciption":"WIP",
-        "Application": "NA"
-    },
+  
 
     {
         "id": 6,
